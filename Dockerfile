@@ -7,6 +7,7 @@ RUN apt-get update && \
 		libapparmor1 \
 		libedit2 \
 		lsb-release \
+    sqlite3 \
 		;
 
 # You can use rsession from rstudio's desktop package as well.
